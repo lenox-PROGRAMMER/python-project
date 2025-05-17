@@ -9,9 +9,24 @@ Welcome to my collection of Python projects! As I explore backend development an
    - Implements rigged multiplier logic for simulated betting.  
    - Uses real-time tracking of total bets for outcome control.  
 
-2. **Simple Calculator** ➗  
-   - Supports basic operations: addition, subtraction, multiplication, division, and modulus.  
-   - Includes error handling for division by zero.  
+2. **Simple Calculator** ➗ 
+   # Calculator Project 🧮
+
+## Overview
+This is a simple calculator program written in Python. It supports basic arithmetic operations including:
+- Addition (`+`)
+- Subtraction (`-`)
+- Division (`/`)
+- Multiplication (`*`)
+- Modulus (`%`)
+
+The program includes **error handling** for invalid inputs and division/modulus by zero.
+
+## How to Use
+1. Run the script in Python:
+   ```bash
+   python calculator.py
+ 
 
 3. **Madlibs Generator** 🎭  
    - Creates fun, randomized stories based on user input.  
